@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Opa, sou o Gabriel 👋
+- 🌱 Estou estudando: <img align="center" title="C#" alt="CSharp" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+- 📫 Contate-me no e-mail: gabriel.coelhosousasantos.pv@gmail.com
+- 😄 Pronomes: Ele/Dele
+<div>
+  <a href="https://beacons.ai/NUBsGP">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NUBsGP&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUBsGP&layout=compact&langs_count=16&theme=shadow_blue"/>
+</div>
+    
 <!--
 **NUBsGP/NUBsGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
