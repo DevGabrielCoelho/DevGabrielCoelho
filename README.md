@@ -3,7 +3,7 @@
 - 📫 Contate-me no e-mail: gabriel.coelhosousasantos.pv@gmail.com
 - 😄 Pronomes: Ele/Dele
 <div>
-  <a href="https://beacons.ai/nubsgp" target="_blank">
+  <a href="https://beacons.ai/nubsgp" target="blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NUBsGP&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUBsGP&layout=compact&langs_count=16&theme=shadow_blue"/>
 </div>
