@@ -60,7 +60,7 @@
 <!-- Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=DevGabrielCoelho&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=DevGabrielCoelho&label=Profile%20Views&color=11&icon=7&pretty=true)](https://github.com/DevGabrielCoelho)
 </div>
 <!--
 ### Opa, sou o Gabriel 👋
