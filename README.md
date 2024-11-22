@@ -2,15 +2,12 @@
   <h1>Opa, sou o Gabriel 👋 </br>Seja bem-vindo!!</h1>
 </div>
 
-<!-- Stats -->
 <div align="center">
   <a href="https://beacons.ai/devgabrielcoelho" target="_blank" ><img src="https://github-readme-stats.vercel.app/api?username=DevGabrielCoelho&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /></a> </br>
   <a href="https://beacons.ai/devgabrielcoelho" target="_blank" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGabrielCoelho&theme=aura&hide_border=true" width="50%" /></a>
   <a href="https://beacons.ai/devgabrielcoelho" target="_blank" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielCoelho&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /></a> </br>
 </div>
 
-
-<!-- Tech Stack -->
 <div align="center">
   
 ## 💻 Tech Stack ⚡
@@ -36,8 +33,6 @@
 
 </div>
 
-
-<!-- Socials -->
 <div align="center">
   
 ## 🌐 Connect with Me 🍬
@@ -47,42 +42,12 @@
 
 </div>
 
-
-
-<!-- Snake -->
 <div align="center">
     
   ![snake gif](https://github.com/DevGabrielCoelho/DevGabrielCoelho/blob/output/github-snake-dark.svg)
 </div>
 
-
-
-<!-- Counter -->
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=DevGabrielCoelho&label=Profile%20Views&color=11&icon=7&pretty=true)](https://github.com/DevGabrielCoelho)
 </div>
-<!--
-### Opa, sou o Gabriel 👋
-- 🌱 Linguagens Dominadas: <img align="center" title="C#" alt="CSharp" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" title="C++" alt="CPlusPlus" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"><img align="center" title="MySQL" alt="MySQL" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"><img align="center" title="SQLServer" alt="SQLServer" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"><img align="center" title="JavaScript" alt="JavaScript" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-- 📫 Contate-me no e-mail: gabriel.coelhosousasantos.pv@gmail.com
-- 😄 Pronomes: Ele/Dele
-<div>
-  <a href="https://beacons.ai/DevGabrielCoelho" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGabrielCoelho&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielCoelho&layout=compact&langs_count=16&theme=shadow_blue"/>
-</div>
-    
-**NUBsGP/NUBsGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
