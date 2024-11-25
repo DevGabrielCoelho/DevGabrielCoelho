@@ -37,12 +37,11 @@
 
 <h2>🛠️ Contributions Snake 🐍</h2>
 <div align="center">
-<p>December &nbsp; &nbsp; January &nbsp; &nbsp; February &nbsp; &nbsp; March &nbsp; &nbsp; April &nbsp; &nbsp; May &nbsp; &nbsp; June &nbsp; &nbsp; July &nbsp; &nbsp; August &nbsp; &nbsp; September	&nbsp; &nbsp; October &nbsp; &nbsp; November</p>
-  
+ 
 <a href="https://github.com/DevGabrielCoelho?tab=repositories" target="_blank" >![snake gif](https://github.com/DevGabrielCoelho/DevGabrielCoelho/blob/output/github-snake-dark.svg)</a>
 </div>
 
-<h2>📌 Pinned Repositories 💻</h2>
+<!-- <h2>📌 Pinned Repositories 💻</h2>
 <div align="center">
   <div align="center">
     <a href="https://github.com/DevGabrielCoelho/WalletApi" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310478721907556403/c.png?ex=67455dea&is=67440c6a&hm=1ce2cbeb2e4e7592ebb68be6771ffbe1b7d5459b14f94b97ce7cba04357e1aa0&"></a>
@@ -61,7 +60,7 @@
     &nbsp;&nbsp;
     <a href="https://github.com/DevGabrielCoelho/EstudosCSharp" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310478720796065833/c_5.png?ex=67455dea&is=67440c6a&hm=8357140781aaaa53b89e338f4ff2233c19a1d3f01bbf42d8f1bf3e5a65406864&"></a>
   </div>
-</div>
+</div> -->
 
 ## 🌐 Connect with Me 🍬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DevGabrielCoelho) <a href="mailto:gabriel.coelhosousasantos.pv@gmail.com" target="_blank">
