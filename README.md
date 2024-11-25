@@ -41,26 +41,26 @@
 <a href="https://github.com/DevGabrielCoelho?tab=repositories" target="_blank" >![snake gif](https://github.com/DevGabrielCoelho/DevGabrielCoelho/blob/output/github-snake-dark.svg)</a>
 </div>
 
-<!-- <h2>📌 Pinned Repositories 💻</h2>
+<h2>📌 Pinned Repositories 💻</h2>
 <div align="center">
   <div align="center">
-    <a href="https://github.com/DevGabrielCoelho/WalletApi" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310478721907556403/c.png?ex=67455dea&is=67440c6a&hm=1ce2cbeb2e4e7592ebb68be6771ffbe1b7d5459b14f94b97ce7cba04357e1aa0&"></a>
+    <a href="https://github.com/DevGabrielCoelho/WalletApi" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487361087475742/d_2.png?ex=674565f6&is=67441476&hm=2123c58310b4b5727f5f50018a21e991bb9b407c6aefeaa869d560d67487b323&"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/DevGabrielCoelho/WalletApiSemDocker" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310478721659965470/c_1.png?ex=67455dea&is=67440c6a&hm=3c55358e45a1770235f6085255e32fcd023fb0fa0c6dfa28decaed5523b795d7&"></a>
+    <a href="https://github.com/DevGabrielCoelho/WalletApiSemDocker" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487360718245938/d_3.png?ex=674565f6&is=67441476&hm=456ea550b5d08a25bac73345130f96e7708b25690982c17aed68e9c015306a3b&"></a>
   </div>
   <br>
   <div align="center">
-    <a href="https://github.com/DevGabrielCoelho/LoginRegistrationAPI" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310478721408565258/c_2.png?ex=67455dea&is=67440c6a&hm=702a44598ac967c860d0854dd390fdbc63a7142ba50e324a2b83d49fda6b6ddf&"></a>
+    <a href="https://github.com/DevGabrielCoelho/LoginRegistrationAPI" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487360353472523/d_4.png?ex=674565f6&is=67441476&hm=d83748bd9413455ada7d0958199f2512fa10f7061c4fa07664efe18c6a467f22&"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/DevGabrielCoelho/ConsoleChess" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310478721211170846/c_3.png?ex=67455dea&is=67440c6a&hm=3e37cf588262e485091d5b6910f7e7c30e248a56f38dc9fd5e869cefb7a33818&"></a>
+    <a href="https://github.com/DevGabrielCoelho/ConsoleChess" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487360080711721/d_5.png?ex=674565f6&is=67441476&hm=6708bae4332616f06cce835fc43793db76faf38b5159f524e8168713bbba1df9&"></a>
   </div>
   <br>
   <div align="center">
-    <a href="https://github.com/DevGabrielCoelho/WebSalesModelViewController" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310478721014173706/c_4.png?ex=67455dea&is=67440c6a&hm=ec1ef18a80ac4262d2bcce143abcab491ed43cca05a7a42edfd1a1eb238dc1c1&"></a>
+    <a href="https://github.com/DevGabrielCoelho/WebSalesModelViewController" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487359485116466/d_6.png?ex=674565f6&is=67441476&hm=2d056355cb098c620220efeb82b3da48d36d66dc2e32df0d05e18c1be71dae4f&"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/DevGabrielCoelho/EstudosCSharp" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310478720796065833/c_5.png?ex=67455dea&is=67440c6a&hm=8357140781aaaa53b89e338f4ff2233c19a1d3f01bbf42d8f1bf3e5a65406864&"></a>
+    <a href="https://github.com/DevGabrielCoelho/EstudosCSharp" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487361301254225/d_7.png?ex=674565f6&is=67441476&hm=c7db27a620356919c26a9c1faf6985e1878cb7e66c49d3e14a94ed2d19eab768&"></a>
   </div>
-</div> -->
+</div>
 
 ## 🌐 Connect with Me 🍬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DevGabrielCoelho) <a href="mailto:gabriel.coelhosousasantos.pv@gmail.com" target="_blank">
