@@ -41,27 +41,6 @@
 <a href="https://github.com/DevGabrielCoelho?tab=repositories" target="_blank" >![snake gif](https://github.com/DevGabrielCoelho/DevGabrielCoelho/blob/output/github-snake-dark.svg)</a>
 </div>
 
-<h2>📌 Pinned Repositories 💻</h2>
-<div align="center">
-  <div align="center">
-    <a href="https://github.com/DevGabrielCoelho/WalletApi" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487361087475742/d_2.png?ex=674565f6&is=67441476&hm=2123c58310b4b5727f5f50018a21e991bb9b407c6aefeaa869d560d67487b323&"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/DevGabrielCoelho/WalletApiSemDocker" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487360718245938/d_3.png?ex=674565f6&is=67441476&hm=456ea550b5d08a25bac73345130f96e7708b25690982c17aed68e9c015306a3b&"></a>
-  </div>
-  <br>
-  <div align="center">
-    <a href="https://github.com/DevGabrielCoelho/LoginRegistrationAPI" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487360353472523/d_4.png?ex=674565f6&is=67441476&hm=d83748bd9413455ada7d0958199f2512fa10f7061c4fa07664efe18c6a467f22&"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/DevGabrielCoelho/ConsoleChess" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487360080711721/d_5.png?ex=674565f6&is=67441476&hm=6708bae4332616f06cce835fc43793db76faf38b5159f524e8168713bbba1df9&"></a>
-  </div>
-  <br>
-  <div align="center">
-    <a href="https://github.com/DevGabrielCoelho/WebSalesModelViewController" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487359485116466/d_6.png?ex=674565f6&is=67441476&hm=2d056355cb098c620220efeb82b3da48d36d66dc2e32df0d05e18c1be71dae4f&"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/DevGabrielCoelho/EstudosCSharp" target="_blank" ><img src="https://cdn.discordapp.com/attachments/809226960080470026/1310487361301254225/d_7.png?ex=674565f6&is=67441476&hm=c7db27a620356919c26a9c1faf6985e1878cb7e66c49d3e14a94ed2d19eab768&"></a>
-  </div>
-</div>
-
 ## 🌐 Connect with Me 🍬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DevGabrielCoelho) <a href="mailto:gabriel.coelhosousasantos.pv@gmail.com" target="_blank">
   [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:gabriel.coelhosousasantos.pv@gmail.com)
