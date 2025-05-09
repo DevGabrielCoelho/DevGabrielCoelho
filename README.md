@@ -13,7 +13,7 @@
 ## 💻 Tech Stack ⚡
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![Angular](https://img.shields.io/badge/angular-%230F0F11.svg?style=for-the-badge&logo=angular&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![ASP.NET Core](https://img.shields.io/badge/ASP%20.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)</a>
-<a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)</a>
+<a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![C](https://img.shields.io/badge/c-%2397a8bb.svg?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![C#](https://img.shields.io/badge/c%23-%2312BD4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=purple)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
@@ -22,7 +22,7 @@
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![Java](https://img.shields.io/badge/java-%23000000svg?style=for-the-badge&logo=openjdk&logoColor=white)</a>
-<a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
+<a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![JavaScript](https://img.shields.io/badge/javascript-%23cbb300.svg?style=for-the-badge&logo=javascript&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![MariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)</a>
