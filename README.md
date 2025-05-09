@@ -33,7 +33,7 @@
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
-<a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
+<a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![React](https://img.shields.io/badge/react-%235bcdf5.svg?style=for-the-badge&logo=react&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![SQL Server](https://img.shields.io/badge/SQL%20Server-003B57?style=for-the-badge&logo=sqlite&logoColor=white)</a>
 <a href="https://beacons.ai/devgabrielcoelho" target="_blank" >![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)</a>
 
